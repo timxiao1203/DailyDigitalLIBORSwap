@@ -16,10 +16,8 @@ We note that the choice of distribution for the ratio,  , can be made more rigor
 
 For example, if the forward  -period Libor rate follows geometric Brownian motion with no drift and with constant volatility, then this induces a shifted log-normal distribution for E.
 
+Daily digital swap is one type of financial derivatives. Many derivatives have barrier feature (see https://finpricing.com/lib/EqBarrier.html)
+
 References:
-
-https://finpricing.com/lib/EqConvertible.html
-
-https://osf.io/wn2ys/wiki/home/
 
 https://osf.io/qzmer/download
